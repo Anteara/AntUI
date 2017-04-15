@@ -1,6 +1,6 @@
 # AntUI
 
-[Image of AntUI](http://i.imgur.com/DcuyZdk.jpg)
+![Image of AntUI](http://i.imgur.com/DcuyZdk.jpg)
 
 ***What is AntUI?***
 
