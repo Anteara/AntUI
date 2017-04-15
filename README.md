@@ -16,12 +16,12 @@ An important thing to remember is that AntUI was not entirely developed by me. A
 
 All authors will be listed below.
 
-### Author of AntUI: 
+## Author of AntUI: 
 
 1) Anteara
 
 
-### Authors of included sub-addons:
+## Authors of included sub-addons:
 
 1) Aviana - ShadowedUnitFrames
 2) ...
