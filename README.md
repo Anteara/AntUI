@@ -1,4 +1,4 @@
-# AntUI
+# AntUI - UI Replacement for World of Warcraft - The Burning Crusade
 
 ![Image of AntUI](http://i.imgur.com/DcuyZdk.jpg)
 
