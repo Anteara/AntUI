@@ -21,7 +21,7 @@ All authors will be listed below.
 1) Anteara
 
 
-Authors of included sub-addons:
+## Authors of included sub-addons:
 
 1) Aviana - ShadowedUnitFrames
 2) ...
