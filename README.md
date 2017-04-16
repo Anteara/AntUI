@@ -26,7 +26,7 @@ All authors will be listed below.
 2) To practice good programming practices
 3) To learn LUA
 
-# How do I donate?
+## How do I donate?
 
 You can't. I'm doing this for fun, not for money.
 
