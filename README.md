@@ -20,6 +20,16 @@ All authors will be listed below.
 
 1) Anteara
 
+## Why am I making this?
+
+1) For fun!
+2) To practice good programming practices
+3) To learn LUA
+
+# How do I donate?
+
+You can't. I'm doing this for fun, not for money.
+
 
 ## Authors of included sub-addons:
 
