@@ -24,6 +24,6 @@ All authors will be listed below.
 ## Authors of included sub-addons:
 
 1) Aviana - ShadowedUnitFrames
-2) ...
+2) Tuller - Bagnon
 3) ..
 4) .
